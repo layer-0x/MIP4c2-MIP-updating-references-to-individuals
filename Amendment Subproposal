@@ -1,0 +1,40 @@
+# MIP4c2: MIP Amendment Subproposals
+
+## Preamble
+
+```
+MIP4c2-SP#: #
+MIP to be amended: <MIP41>
+Author(s): @prose11 @layer0x
+Contributors:
+Tags: template
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
+```
+## Specification
+
+This amendment MIP proposes to eliminate any reference to a facilitator as "individual" and replace it by the term  "person".
+
+### Motivation
+
+- MIP 41 defines Facilitators as "accountable individuals". 
+  The term individual is defined as "a single human being as contrasted with a social group or institution" (Merriam Webster Dictionary)
+  The term person is more broad and can include collective bodies, legal entities, and fictitious characters which pseudonymous identities.
+
+- This MIP proposes to change a very speicific term, a MIP replacement is not necessary.
+
+- Any impact this has on other MIPs that interact with the MIP in question.
+  TBC w/ Payton
+
+### Amended MIPs and Components
+
+- MIP41 Paragrapgh Summary: "Facilitators are the accountable individuals". Replace it by "Facilitators are persons"
+
+### Amendment Pull Request
+
+- A link to the PR containing the amendment.
+
+### Relevant Information
+
+- Links to evidence further backing the motivation.
